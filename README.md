@@ -1,6 +1,6 @@
 # Auto Complete Text
 Auto Complet Text
-For those who type repetitive texts. /n
+For those who type repetitive texts.
 
 For programmers and complete repetitive code.
 
